@@ -1,0 +1,13 @@
+[Unit]
+# put .service file in /lib/systemd/system
+Description=Electrical Monitoring
+
+[Install]
+WantedBy=default.target
+
+[Service]
+# Command to execute when the service is started
+WorkingDirectory=/home/pi/emon
+User=pi
+ExecStart=/usr/bin/python3 /home/pi/emon/monitor.py
+Restart=on-failure
