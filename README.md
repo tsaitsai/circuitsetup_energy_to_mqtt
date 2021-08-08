@@ -4,5 +4,5 @@ This repo has code and notes for whole home electrical power monitoring using a 
 
 <img align="left" width="300" alt="CircuitSetup" src="https://raw.githubusercontent.com/tsaitsai/circuitsetup_energy_to_mqtt/main/images/wiring_to_pi.png">
 
-<BR>
+</BR>
 <img align="left" width="300" alt="CircuitSetup" src="https://raw.githubusercontent.com/tsaitsai/circuitsetup_energy_to_mqtt/main/images/Node-Red_dashboard.png">
