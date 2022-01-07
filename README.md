@@ -8,4 +8,4 @@ Node-Red dashboard
 <img align="left" width="300" alt="CircuitSetup" src="https://raw.githubusercontent.com/tsaitsai/circuitsetup_energy_to_mqtt/main/images/Node-Red_dashboard.png">
 <br>
 Grafana Dashboard
-<img align="left" width="300" alt="CircuitSetup" src="https://raw.githubusercontent.com/tsaitsai/circuitsetup_energy_to_mqtt/main/images/xcel_energy_saver%20switch_activation.jpg">
+<img align="left" alt="CircuitSetup" src="https://raw.githubusercontent.com/tsaitsai/circuitsetup_energy_to_mqtt/main/images/xcel_energy_saver%20switch_activation.jpg">
